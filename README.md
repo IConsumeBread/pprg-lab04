@@ -1,3 +1,3 @@
 ## pprg lab 04
 
-**Wykonane zadania: `3/6`**
+**Wykonane zadania: `5/6`**
