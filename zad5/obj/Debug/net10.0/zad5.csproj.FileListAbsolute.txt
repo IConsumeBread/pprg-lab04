@@ -1,0 +1,15 @@
+d:\codingthings\pprg-lab04\zad5\bin\Debug\net10.0\zad5.exe
+d:\codingthings\pprg-lab04\zad5\bin\Debug\net10.0\zad5.deps.json
+d:\codingthings\pprg-lab04\zad5\bin\Debug\net10.0\zad5.runtimeconfig.json
+d:\codingthings\pprg-lab04\zad5\bin\Debug\net10.0\zad5.dll
+d:\codingthings\pprg-lab04\zad5\bin\Debug\net10.0\zad5.pdb
+d:\codingthings\pprg-lab04\zad5\obj\Debug\net10.0\zad5.GeneratedMSBuildEditorConfig.editorconfig
+d:\codingthings\pprg-lab04\zad5\obj\Debug\net10.0\zad5.AssemblyInfoInputs.cache
+d:\codingthings\pprg-lab04\zad5\obj\Debug\net10.0\zad5.AssemblyInfo.cs
+d:\codingthings\pprg-lab04\zad5\obj\Debug\net10.0\zad5.csproj.CoreCompileInputs.cache
+d:\codingthings\pprg-lab04\zad5\obj\Debug\net10.0\zad5.sourcelink.json
+d:\codingthings\pprg-lab04\zad5\obj\Debug\net10.0\zad5.dll
+d:\codingthings\pprg-lab04\zad5\obj\Debug\net10.0\refint\zad5.dll
+d:\codingthings\pprg-lab04\zad5\obj\Debug\net10.0\zad5.pdb
+d:\codingthings\pprg-lab04\zad5\obj\Debug\net10.0\zad5.genruntimeconfig.cache
+d:\codingthings\pprg-lab04\zad5\obj\Debug\net10.0\ref\zad5.dll
