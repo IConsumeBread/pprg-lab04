@@ -1,6 +1,3 @@
-﻿using System.Drawing;
-using System.Runtime.InteropServices;
-
 int zdrowieBohatera = 60;
 int zdrowiePrzeciwnika = 45;
 int liczbaMikstur = 2;
